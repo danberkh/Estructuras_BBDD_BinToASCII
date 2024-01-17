@@ -1,2 +1,2 @@
-# 60255-estructura-base-de-datos
-Repositorio de Estructura y Base de Datos - UTN INSPT
+# 60255_Estructuras_BBDD
+Repositorio de Estructuras y Bases de Datos - UTN INSPT
